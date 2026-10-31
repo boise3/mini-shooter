@@ -8,6 +8,3 @@ pub enum Screen {
     ExitScreen,
 }
 
-pub fn change_theme(theme: &str, file: &str) {
-    
-}

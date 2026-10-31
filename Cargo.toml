@@ -1,0 +1,9 @@
+[package]
+name = "physics_symulation"
+version = "0.1.0"
+edition = "2024"
+path = "src/main.rs"
+
+[dependencies]
+dark-light = "3.0.0"
+raylib = { version = "6.0.0", features = [] }
